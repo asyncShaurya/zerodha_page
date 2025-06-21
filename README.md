@@ -24,7 +24,6 @@ It's a great demonstration of layout techniques, responsive design, and attentio
 ```bash
 zerodha_page/
 ├── index.html           # Main landing page
-├── style.css            # Custom CSS styles
-├── script.js            # (Optional) JS file if needed
+├── index2.html            # Custom CSS styles
 ├── assets/              # Images, logos, icons
 └── README.md
